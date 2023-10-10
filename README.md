@@ -1,7 +1,5 @@
 # Forest (an intertwining)
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## Creating the Electronic Soundscape
 
 1. Download [Pure Data]
