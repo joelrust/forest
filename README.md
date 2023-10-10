@@ -19,3 +19,10 @@
 8. To create a fuller texture, you can create more copies of Pure Data and open more instances of Forest_(an_intertwining).pd. 
 
 9. If there are issues with clicking and audio dropouts, you can increase the Delay time in Media => Audio Settings.
+
+## Creating a Part for a Human Performer
+
+1. Download [Max](https://cycling74.com/downloads). Note: you do **not** have to purchase a license to run Max.
+2. Download Forest_(an_intertwining)_human.mxf from the repository.
+3. Open Forest_(an_intertwining)_human.mxf in Max, and click on the required instrument. Note that the patch **is** transposing.
+4. If your instrument is not listed, please select one with a similar range (in the correct transposition).
